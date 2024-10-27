@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sravandasari111@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/110PAFaDoYto2yTQIC2bvZ1S-MNDLNjav/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/110PAFaDoYto2yTQIC2bvZ1S-MNDLNjav/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
