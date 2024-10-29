@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravand123&label=Profile%20views&color=0e75b6&style=flat" alt="sravand123" /> </p>
 
-- 💬 Ask me about **Javascript, Node.Js, PostgreSQL and React**
+- 💬 Ask me about **Javascript, Node.Js and PostgreSQL**
 
 - 📫 How to reach me **sravandasari111@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/110PAFaDoYto2yTQIC2bvZ1S-MNDLNjav/view?usp=sharing)
+- 🌐 View my [website](https://sravand123.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
