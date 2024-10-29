@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/110PAFaDoYto2yTQIC2bvZ1S-MNDLNjav/view?usp=sharing)
 - 🌐 View my [website](https://sravand123.github.io)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me Online:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sravan-kumar-dasari-02ab93195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sravan-kumar-dasari-02ab93195" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codemonk999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codemonk999" height="30" width="40" /></a>
